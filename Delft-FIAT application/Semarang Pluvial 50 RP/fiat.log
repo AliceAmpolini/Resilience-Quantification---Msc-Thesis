@@ -1,0 +1,33 @@
+2022-06-05 15:28:40,812 - run - log - DEBUG - Writing log messages to new file C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_pluvial_50\fiat.log.
+2022-06-05 15:28:40,813 - run - log - INFO - HydroMT version: v0.4.2
+2022-06-05 15:28:40,823 - run - fiat - DEBUG - Setting model config options.
+2022-06-05 15:28:40,825 - run - fiat - INFO - setup_hazard.usage: True
+2022-06-05 15:28:40,825 - run - fiat - INFO - setup_hazard.map_fn: hmax_RP_50_semarang_pluvial.tif
+2022-06-05 15:28:40,827 - run - fiat - INFO - setup_hazard.map_type: water_depth
+2022-06-05 15:28:40,828 - run - fiat - INFO - setup_hazard.chunks: auto
+2022-06-05 15:28:40,828 - run - fiat - INFO - setup_hazard.rp: 1
+2022-06-05 15:28:40,829 - run - fiat - INFO - setup_hazard.crs: EPSG:23879
+2022-06-05 15:28:40,831 - run - fiat - INFO - setup_hazard.nodata: -9999
+2022-06-05 15:28:40,831 - run - fiat - INFO - setup_hazard.var: None
+2022-06-05 15:28:40,905 - run - fiat - INFO - Added flooding hazard map: hmax_RP_50_semarang_pluvial (rp 1)
+2022-06-05 15:28:40,906 - run - fiat - INFO - setup_exposure.usage: True
+2022-06-05 15:28:40,907 - run - fiat - INFO - setup_exposure.map_fn: buildings_value.tif
+2022-06-05 15:28:40,911 - run - fiat - INFO - setup_exposure.category: buildings_value
+2022-06-05 15:28:40,911 - run - fiat - INFO - setup_exposure.unit: USD
+2022-06-05 15:28:40,912 - run - fiat - INFO - setup_exposure.function_fn: {'water_depth': 'AS000.csv'}
+2022-06-05 15:28:40,913 - run - fiat - INFO - setup_exposure.resamp_alg: nearest
+2022-06-05 15:28:40,914 - run - fiat - INFO - setup_exposure.chunks: auto
+2022-06-05 15:28:40,916 - run - fiat - INFO - setup_exposure.comp_alg: max
+2022-06-05 15:28:40,917 - run - fiat - INFO - setup_exposure.scale_factor: 1
+2022-06-05 15:28:40,918 - run - fiat - INFO - setup_exposure.weight_factor: 1
+2022-06-05 15:28:40,919 - run - fiat - INFO - setup_exposure.subcategory: None
+2022-06-05 15:28:40,919 - run - fiat - INFO - setup_exposure.crs: EPSG:23879
+2022-06-05 15:28:40,921 - run - fiat - INFO - setup_exposure.nodata: 0
+2022-06-05 15:28:40,921 - run - fiat - INFO - setup_exposure.var: None
+2022-06-05 15:28:40,951 - run - fiat - INFO - Added exposure map: buildings_value (buildings_value)
+2022-06-05 15:28:40,952 - run - fiat - INFO - setup_geometry.region: None
+2022-06-05 15:28:41,069 - run - fiat - INFO - Added damage map: hazard_scenario_1_buildings_value_damage (layer)
+2022-06-05 15:28:41,106 - run - fiat - DEBUG - Added risk map: buildings_value_risk (layer)
+2022-06-05 15:28:41,509 - run - fiat - INFO - Stored damage map: hazard_scenario_1_buildings_value_damage (layer)
+2022-06-05 15:28:41,555 - run - fiat - INFO - Stored risk map: buildings_value_risk (layer)
+2022-06-05 15:28:41,610 - run - fiat - INFO - Stored the impact report.
