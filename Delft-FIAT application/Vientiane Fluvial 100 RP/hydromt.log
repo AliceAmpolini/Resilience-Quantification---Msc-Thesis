@@ -1,0 +1,59 @@
+2022-06-05 09:59:21,939 - build - data_adapter - WARNING - Overwriting data source chelsa.
+2022-06-05 09:59:21,940 - build - data_adapter - WARNING - Overwriting data source chirps_global.
+2022-06-05 09:59:21,941 - build - data_adapter - WARNING - Overwriting data source corine.
+2022-06-05 09:59:21,945 - build - data_adapter - WARNING - Overwriting data source dtu10mdt.
+2022-06-05 09:59:21,945 - build - data_adapter - WARNING - Overwriting data source dtu10mdt_egm96.
+2022-06-05 09:59:21,946 - build - data_adapter - WARNING - Overwriting data source eobs.
+2022-06-05 09:59:21,947 - build - data_adapter - WARNING - Overwriting data source eobs_orography.
+2022-06-05 09:59:21,947 - build - data_adapter - WARNING - Overwriting data source era5.
+2022-06-05 09:59:21,949 - build - data_adapter - WARNING - Overwriting data source era5_hourly.
+2022-06-05 09:59:21,950 - build - data_adapter - WARNING - Overwriting data source era5_orography.
+2022-06-05 09:59:21,951 - build - data_adapter - WARNING - Overwriting data source gadm_level1.
+2022-06-05 09:59:21,952 - build - data_adapter - WARNING - Overwriting data source gadm_level2.
+2022-06-05 09:59:21,953 - build - data_adapter - WARNING - Overwriting data source gadm_level3.
+2022-06-05 09:59:21,954 - build - data_adapter - WARNING - Overwriting data source gcn250.
+2022-06-05 09:59:21,955 - build - data_adapter - WARNING - Overwriting data source gdp_world.
+2022-06-05 09:59:21,955 - build - data_adapter - WARNING - Overwriting data source gebco.
+2022-06-05 09:59:21,956 - build - data_adapter - WARNING - Overwriting data source ghs-smod_2015_v2.
+2022-06-05 09:59:21,957 - build - data_adapter - WARNING - Overwriting data source ghs_pop_2015.
+2022-06-05 09:59:21,958 - build - data_adapter - WARNING - Overwriting data source ghs_pop_2015_54009.
+2022-06-05 09:59:21,962 - build - data_adapter - WARNING - Overwriting data source ghs_smod_2015.
+2022-06-05 09:59:21,963 - build - data_adapter - WARNING - Overwriting data source globcover.
+2022-06-05 09:59:21,964 - build - data_adapter - WARNING - Overwriting data source glw_buffaloes.
+2022-06-05 09:59:21,965 - build - data_adapter - WARNING - Overwriting data source glw_cattle.
+2022-06-05 09:59:21,965 - build - data_adapter - WARNING - Overwriting data source glw_chicken.
+2022-06-05 09:59:21,966 - build - data_adapter - WARNING - Overwriting data source glw_ducks.
+2022-06-05 09:59:21,968 - build - data_adapter - WARNING - Overwriting data source glw_goats.
+2022-06-05 09:59:21,969 - build - data_adapter - WARNING - Overwriting data source glw_horses.
+2022-06-05 09:59:21,969 - build - data_adapter - WARNING - Overwriting data source glw_pigs.
+2022-06-05 09:59:21,970 - build - data_adapter - WARNING - Overwriting data source glw_sheep.
+2022-06-05 09:59:21,971 - build - data_adapter - WARNING - Overwriting data source grdc.
+2022-06-05 09:59:21,972 - build - data_adapter - WARNING - Overwriting data source grib_roads_hig.
+2022-06-05 09:59:21,973 - build - data_adapter - WARNING - Overwriting data source grib_roads_loc.
+2022-06-05 09:59:21,976 - build - data_adapter - WARNING - Overwriting data source grib_roads_pri.
+2022-06-05 09:59:21,977 - build - data_adapter - WARNING - Overwriting data source grib_roads_sec.
+2022-06-05 09:59:21,980 - build - data_adapter - WARNING - Overwriting data source grib_roads_ter.
+2022-06-05 09:59:21,981 - build - data_adapter - WARNING - Overwriting data source grwl.
+2022-06-05 09:59:21,981 - build - data_adapter - WARNING - Overwriting data source grwl_mask.
+2022-06-05 09:59:21,982 - build - data_adapter - WARNING - Overwriting data source gswo.
+2022-06-05 09:59:21,983 - build - data_adapter - WARNING - Overwriting data source gtsmv3_eu_era5.
+2022-06-05 09:59:21,984 - build - data_adapter - WARNING - Overwriting data source guf_bld_2012.
+2022-06-05 09:59:21,985 - build - data_adapter - WARNING - Overwriting data source hydro_lakes.
+2022-06-05 09:59:21,986 - build - data_adapter - WARNING - Overwriting data source hydro_reservoirs.
+2022-06-05 09:59:21,987 - build - data_adapter - WARNING - Overwriting data source koppen_geiger.
+2022-06-05 09:59:21,988 - build - data_adapter - WARNING - Overwriting data source merit_hydro.
+2022-06-05 09:59:21,988 - build - data_adapter - WARNING - Overwriting data source merit_hydro_1k.
+2022-06-05 09:59:21,992 - build - data_adapter - WARNING - Overwriting data source merit_hydro_index.
+2022-06-05 09:59:21,993 - build - data_adapter - WARNING - Overwriting data source modis_lai.
+2022-06-05 09:59:21,996 - build - data_adapter - WARNING - Overwriting data source osm_coastlines.
+2022-06-05 09:59:21,997 - build - data_adapter - WARNING - Overwriting data source osm_landareas.
+2022-06-05 09:59:21,997 - build - data_adapter - WARNING - Overwriting data source rgi.
+2022-06-05 09:59:21,998 - build - data_adapter - WARNING - Overwriting data source simard.
+2022-06-05 09:59:21,999 - build - data_adapter - WARNING - Overwriting data source soilgrids.
+2022-06-05 09:59:22,000 - build - data_adapter - WARNING - Overwriting data source vito.
+2022-06-05 09:59:22,001 - build - data_adapter - WARNING - Overwriting data source worldclim.
+2022-06-05 09:59:22,003 - build - model_api - WARNING - Model dir already exists and files might be overwritten: C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100\hazard.
+2022-06-05 09:59:22,004 - build - model_api - WARNING - Model dir already exists and files might be overwritten: C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100\exposure.
+2022-06-05 09:59:22,005 - build - model_api - WARNING - Model dir already exists and files might be overwritten: C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100\susceptibility.
+2022-06-05 09:59:22,007 - build - model_api - WARNING - Model dir already exists and files might be overwritten: C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100\output.
+2022-06-05 09:59:22,008 - build - model_api - ERROR - Default config file not found at C:\Users\ampolini\Miniconda3\envs\hydromt-fiat-dev\lib\site-packages\hydromt_fiat\data\fiat\fiat_configuration.ini
