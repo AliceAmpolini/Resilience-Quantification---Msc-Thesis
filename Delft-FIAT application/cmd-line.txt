@@ -1,0 +1,25 @@
+# for setting up FIAT
+hydromt build fiat D:\18_SO_resilience2022\Alice-FIAT\FIAT-model "{'grid': 'D:/18_SO_resilience2022/Alice-FIAT/Hazard/hmax.tif'}" -i D:\18_SO_resilience2022\Alice-FIAT\configuration.ini --dd
+
+# for running FIAT (run inside the FIAT-model folder)
+python D:\18_SO_resilience2022\Alice-FIAT\fiat.py -i D:\18_SO_resilience2022\Alice-FIAT\FIAT-model\fiat_configuration.ini
+
+Config. Vientiane pluvial rp 50
+hydromt build fiat C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_pluvial_50 "{'grid': 'C:/Users/ampolini/Workingfolder/Alice-FIAT/Hazard/hmax_RP_50_vientiane_pluvial.tif'}" -i C:\Users\ampolini\Workingfolder\Alice-FIAT\configuration_vientiane_pluvial.ini --dd
+python C:\Users\ampolini\Workingfolder\Alice-FIAT\fiat.py -i C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_pluvial_50\fiat_configuration.ini
+
+Config. Vientiane fluvial rp 100
+hydromt build fiat C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100 "{'grid': 'C:/Users/ampolini/Workingfolder/Alice-FIAT/Hazard/hmax_RP_100_vientiane_fluvial.tif'}" -i C:\Users\ampolini\Workingfolder\Alice-FIAT\configuration_vientiane_fluvial.ini --dd
+python C:\Users\ampolini\Workingfolder\Alice-FIAT\fiat.py -i C:\Users\ampolini\Workingfolder\Alice-FIAT\Vientiane_fluvial_100\fiat_configuration.ini
+
+Config. Semarang coastal rp 100
+hydromt build fiat C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_coastal_100 "{'grid': 'C:/Users/ampolini/Workingfolder/Alice-FIAT/Hazard/hmax_RP_100_semarang_coastal.tif'}" -i C:\Users\ampolini\Workingfolder\Alice-FIAT\configuration_semarang_coastal.ini --dd
+python C:\Users\ampolini\Workingfolder\Alice-FIAT\fiat.py -i C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_coastal_100\fiat_configuration.ini
+
+Config. Semarang coastal rp 1000
+hydromt build fiat C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_coastal_1000 "{'grid': 'C:/Users/ampolini/Workingfolder/Alice-FIAT/Hazard/hmax_RP_1000_semarang_coastal.tif'}" -i C:\Users\ampolini\Workingfolder\Alice-FIAT\configuration_semarang_coastal_1000.ini --dd
+python C:\Users\ampolini\Workingfolder\Alice-FIAT\fiat.py -i C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_coastal_1000\fiat_configuration.ini
+
+Config. Semarang pluvial rp 50
+hydromt build fiat C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_pluvial_50 "{'grid': 'C:/Users/ampolini/Workingfolder/Alice-FIAT/Hazard/hmax_RP_50_semarang_pluvial.tif'}" -i C:\Users\ampolini\Workingfolder\Alice-FIAT\configuration_semarang_pluvial.ini --dd
+python C:\Users\ampolini\Workingfolder\Alice-FIAT\fiat.py -i C:\Users\ampolini\Workingfolder\Alice-FIAT\Semarang_pluvial_50\fiat_configuration.ini
